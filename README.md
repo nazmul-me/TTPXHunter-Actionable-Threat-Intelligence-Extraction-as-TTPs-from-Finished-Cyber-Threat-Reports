@@ -1,6 +1,6 @@
 # TTPXHunter-Actionable-Threat-Intelligence-Extraction-as-TTPs-from-Finished-Cyber-Threat-Reports
 
-This repo contains code and dataset of our paper titled "TTPXHunter: Actionable Threat Intelligence Extraction as TTPs from Finished Cyber Threat Reports". The paper is available at: [[https://dl.acm.org/doi/abs/10.1145/3579375.3579391](https://dl.acm.org/doi/abs/10.1145/3579375.3579391)](https://dl.acm.org/doi/10.1145/3696427)
+This repo contains code and dataset of our paper titled "TTPXHunter: Actionable Threat Intelligence Extraction as TTPs from Finished Cyber Threat Reports". The paper is available at: [[https://dl.acm.org/doi/abs/10.1145/3579375.3579391](https://dl.acm.org/doi/abs/10.1145/3579375.3579391)]
 
 
 Run the Jupyter notebook **TTPXHunter.ipynb**
