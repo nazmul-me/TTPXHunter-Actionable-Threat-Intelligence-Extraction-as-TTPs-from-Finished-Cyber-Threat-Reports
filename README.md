@@ -1,11 +1,11 @@
 # TTPXHunter-Actionable-Threat-Intelligence-Extraction-as-TTPs-from-Finished-Cyber-Threat-Reports
 
-This repo contains code and dataset of our paper titled "TTPXHunter: Actionable Threat Intelligence Extraction as TTPs from Finished Cyber Threat Reports". The paper is available at: [[https://dl.acm.org/doi/abs/10.1145/3579375.3579391](https://dl.acm.org/doi/abs/10.1145/3579375.3579391)]
+This repo contains code and dataset of our paper titled "TTPXHunter: Actionable Threat Intelligence Extraction as TTPs from Finished Cyber Threat Reports". The paper is available at: [https://dl.acm.org/doi/abs/10.1145/3579375.3579391](https://dl.acm.org/doi/abs/10.1145/3579375.3579391)
 
 
 Run the Jupyter notebook **TTPXHunter.ipynb**
 
-The notebook will download the model directly from Huggingfac. Model is available at: [[https://huggingface.co/nanda-rani/TTPXHunter](https://huggingface.co/nanda-rani/TTPXHunter)]
+The notebook will download the model directly from Huggingfac. Model is available at: [https://huggingface.co/nanda-rani/TTPXHunter](https://huggingface.co/nanda-rani/TTPXHunter)
 
 
 ## Note:
