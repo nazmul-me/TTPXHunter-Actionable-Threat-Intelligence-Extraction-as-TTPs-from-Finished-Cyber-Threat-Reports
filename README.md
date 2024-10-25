@@ -5,7 +5,7 @@ This repo contains code and dataset of our paper titled "TTPXHunter: Actionable 
 
 Run the Jupyter notebook **TTPXHunter.ipynb**
 
-The notebook will download the model directly from Huggingfac. Model is available at: [https://huggingface.co/nanda-rani/TTPXHunter](https://huggingface.co/nanda-rani/TTPXHunter)
+The notebook will download the model directly from Huggingface. Model is available at: [https://huggingface.co/nanda-rani/TTPXHunter](https://huggingface.co/nanda-rani/TTPXHunter)
 
 
 ## Note:
